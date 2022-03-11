@@ -1,4 +1,2 @@
-# repo-name
-# CryptoTournement
-# CryptoTournement
-# CryptoTournement
+# CryptoTournament Backend
+
